@@ -1,0 +1,18 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+df = pd.read_excel("ai_usage_dataset.csv.xlsx")
+print("First 5 Rows")
+print(df.head())
+print("\nMissing Values")
+print(df.isnull().sum())
+df = df.drop_duplicates()
+df['City'] = df['City'].replace('Benguluru', 'Bengaluru')
+df['Gender'] = df['Gender'].str.title()
+df['Education_Level'] = df['Education_Level'].str.title()
+df['AI_Tool_Used'] = df['AI_Tool_Used'].str.title()
+df.to_csv("cleaned_ai_usage_dataset.csv", index=False)
+print("\nCleaning Completed Successfully!")
+tool_counts = df['AI_Tool_Used'].value_counts()
+plt.pie(tool_counts, labels=tool_counts.index, autopct='%1.1f%%')
+plt.title("AI Tool Usage Among Students")
+plt.show()

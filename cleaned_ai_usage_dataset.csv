@@ -1,0 +1,101 @@
+Student_ID,Age,Gender,Education_Level,City,AI_Tool_Used,Daily_Usage_Hours,Purpose,Impact_on_Grades,Satisfaction_Level
+1,15,Female,School,Bengaluru,Chatgpt,0.8,Writing,Slight Decline,Low
+2,15,Female,College,Hyderabad,Copilot,1.6,Learning,No Change,High
+3,16,Female,College,Goa,Chatgpt,1.8,Research,Improved,Low
+4,22,Male,University,Hyderabad,Chatgpt,4.2,Learning,Improved,High
+5,16,Male,School,Chennai,Chatgpt,1.8,Coding,Improved,Medium
+6,15,Female,School,Goa,Grammarly,4.1,Learning,Improved,Low
+7,19,Male,School,benguluru,Copilot,2.0,Research,Slight Decline,Low
+8,25,Male,University,Delhi,Grammarly,4.2,Coding,Slight Decline,High
+9,20,Male,University,Mumbai,Gemini,3.2,Homework,Slight Decline,Medium
+10,21,Male,College,Delhi,Grammarly,3.6,Writing,No Change,Low
+11,22,Female,College,Hyderabad,Grammarly,3.9,Writing,No Change,Medium
+12,20,Male,College,hyd ,Chatgpt,3.4,Research,Slight Decline,High
+13,20,Male,School,chennai,Gemini,0.7,,Improved,High
+14,16,Female,College,Hyderabad,Gemini,4.8,Homework,No Change,Medium
+15,23,Male,University,cennai,Copilot,3.7,Homework,Improved,High
+16,16,Female,University,Goa,Grammarly,1.1,Writing,No Change,High
+17,16,Male,University,Bengaluru,Chatgpt,0.7,Homework,No Change,Medium
+18,22,Male,University,,Chatgpt,4.9,Coding,Improved,Low
+19,20,Female,School,Pune,Chatgpt,4.1,Research,No Change,Low
+20,22,Male,School,Pune,Gemini,5.0,Homework,No Change,High
+21,21,Male,School,Mumbai,Grammarly,5.2,Homework,Slight Decline,
+22,21,Male,School,Mumbai,Grammarly,2.7,Coding,Slight Decline,Medium
+23,25,Female,School,Mumbai,Gemini,5.9,Research,No Change,High
+24,16,Male,University,Hyderabad,Grammarly,1.3,Learning,Slight Decline,High
+25,21,Female,College,Chennai,Chatgpt,5.5,Homework, ,Low
+26,16,Female,University,Goa,Chatgpt,1.8,Homework,No Change,High
+27,19,Male,School,bengulru,Notion Ai,1.1,Writing,Improved,High
+28,20,Male,School,pune,Copilot,4.8,Coding,No Change,Low
+29,16,Male,School,Pune,Chatgpt,2.3,Homework,Improved,Medium
+30,21,Male,School,Bengaluru,Grammarly,0.7,Writing,Slight Decline,Medium
+31,15,Male,University,Bengaluru,Gemini,3.2,Research,Improved,High
+32,16,Female,College,Goa,Gemini,4.0,Research,Slight Decline,Low
+33,22,Male,School,Hyderabad,Copilot,1.8,Writing,No Change,High
+34,15,Male,University,Bengaluru,Gemini,3.6,Research,,High
+35,23,Female,School,Goa,Gemini,1.4,Coding,Improved,High
+36,20,Male,University,Pune,Copilot,4.8,Coding,Improved,Low
+37,15,Female,College,Mumbai,Gemini,4.3,Coding,Slight Decline,Low
+38,25,Female,School,Bengaluru,Chatgpt,0.7,Coding,Improved,Low
+39,20,Female,College,Pune,Gemini,2.3,Learning,No Change,Medium
+40,19,Male,University,Mumbai,,5.0,Research,Slight Decline,High
+41,18,Female,School,Chennai,Copilot,0.8,Writing,No Change,Low
+42,20,Female,College,Delhi,Grammarly,3.4,Learning,Slight Decline,Low
+43,25,Female,School,Chennai,Gemini,0.9,Homework,Slight Decline,Medium
+44,18,Male,School,Bengaluru,Copilot,5.5,Coding,No Change,Medium
+45,23,Female,School,Pune,Copilot,4.3,Homework,Improved,Low
+46,15,Female,College,Goa,Notion Ai,3.6,Learning,Slight Decline,Low
+47,23,Male,School,Mumbai,Gemini,3.2,Coding,Improved,Low
+48,19,Female,School,Bengaluru,Chatgpt,0.8,Homework,No Change,Medium
+49,19,Female,School,Chennai,Chatgpt,5.5,Coding,Improved,High
+50,25,Female,College,Bengaluru,Gemini,2.3,Research,No Change,Low
+51,25,Male,University,Hyderabad,Notion Ai,1.9,Research,Improved,Medium
+52,16,Female,University,Chennai,Notion Ai,0.7,Learning,Improved,Medium
+53,23,Female,School,Bengaluru,Chatgpt,4.3,Homework,Slight Decline,Medium
+54,25,Female,School,Bengaluru,Grammarly,2.5,Research,No Change,Medium
+55,17,Female,School,Mumbai,Grammarly,1.9,Research,No Change,Medium
+56,25,Female,School,Mumbai,Notion Ai,2.2,Learning,Slight Decline,High
+57,17,Female,School,Pune,Gemini,0.8,Writing,Improved,Low
+58,16,Male,School,Mumbai,Grammarly,3.8,Homework,Improved,Low
+59,18,Male,University,Pune,Grammarly,4.5,Homework,Improved,Low
+60,21,Female,College,Goa,Notion Ai,3.0,Research,Improved,Medium
+61,19,Male,College,Hyderabad,Notion Ai,3.1,Learning,Slight Decline,High
+62,15,Female,School,Bengaluru,Chatgpt,5.9,Coding,Improved,High
+63,16,Female,College,Bengaluru,Grammarly,2.5,Coding,No Change,Low
+64,22,Male,School,Hyderabad,Copilot,3.2,Homework,No Change,Medium
+65,23,Male,College,Delhi,Gemini,1.4,Research,No Change,Low
+66,23,Female,School,Chennai,Copilot,0.6,Homework,No Change,Medium
+67,22,Male,School,Chennai,Copilot,3.3,Writing,Slight Decline,High
+68,19,Male,School,Bengaluru,Grammarly,4.2,Homework,Improved,Medium
+69,18,Male,University,Hyderabad,Copilot,4.2,Learning,Improved,High
+70,16,Male,School,Mumbai,Notion Ai,1.0,Homework,No Change,Medium
+71,19,Male,School,Delhi,Grammarly,3.0,Learning,Slight Decline,Low
+72,19,Female,College,Hyderabad,Gemini,5.8,Learning,No Change,High
+73,15,Male,University,Chennai,Notion Ai,4.7,Homework,No Change,Low
+74,22,Male,School,Pune,Notion Ai,4.7,Writing,Improved,Low
+75,16,Male,University,Mumbai,Grammarly,4.0,Coding,Slight Decline,Low
+76,23,Male,University,Goa,Copilot,2.0,Learning,Improved,Medium
+77,19,Female,College,Chennai,Chatgpt,5.7,Coding,Improved,Medium
+78,16,Female,College,Bengaluru,Grammarly,3.2,Research,No Change,Medium
+79,19,Male,College,Hyderabad,Notion Ai,1.7,Learning,No Change,Low
+80,16,Male,School,Hyderabad,Notion Ai,4.9,Research,Improved,Low
+81,25,Female,University,Goa,Chatgpt,0.6,Learning,Improved,Medium
+82,16,Male,College,Pune,Gemini,4.7,Research,Slight Decline,Medium
+83,23,Male,University,Mumbai,Gemini,1.9,Homework,No Change,Low
+84,17,Male,College,Delhi,Grammarly,5.2,Learning,Slight Decline,Low
+85,25,Female,College,Hyderabad,Notion Ai,1.7,Coding,No Change,High
+86,19,Male,College,Hyderabad,Gemini,0.5,Coding,No Change,Low
+87,17,Female,University,Delhi,Copilot,5.6,Research,Slight Decline,Medium
+88,20,Female,College,Chennai,Chatgpt,3.3,Homework,Improved,Low
+89,15,Female,School,Bengaluru,Chatgpt,5.0,Learning,Improved,High
+90,15,Female,University,Goa,Copilot,1.9,Research,Slight Decline,Medium
+91,16,Female,College,Goa,Copilot,3.9,Writing,No Change,Low
+92,16,Female,University,Pune,Grammarly,3.0,Learning,Improved,Medium
+93,21,Male,School,Pune,Notion Ai,2.4,Coding,Improved,High
+94,21,Female,School,Hyderabad,Grammarly,3.9,Homework,Improved,Low
+95,23,Male,School,Bengaluru,Gemini,5.0,Research,Improved,High
+96,16,Female,School,Goa,Grammarly,5.0,Learning,Slight Decline,Medium
+97,25,Female,School,Delhi,Gemini,1.9,Writing,No Change,Medium
+98,17,Female,College,Mumbai,Gemini,2.9,Writing,No Change,Low
+99,15,Female,College,Hyderabad,Notion Ai,3.6,Homework,Slight Decline,High
+100,24,Female,School,Chennai,Gemini,2.7,Learning,Improved,High
